@@ -1,5 +1,5 @@
-# Stable-cascade
-This is a Stable-cascade template you can use to import your model on Inferless Platform. Stable-cascade model is built upon the Würstchen architecture and its main difference to other models like Stable Diffusion is that it is working at a much smaller latent space. Why is this important? The smaller the latent space, the faster you can run inference and the cheaper the training becomes.
+# Playground-v2.5
+This is a Playground-v2.5-1024px-aesthetic model template you can use to import your model on Inferless Platform. Playground v2.5 is a diffusion-based text-to-image generative model, and a successor to Playground v2. Playground v2.5 is the state-of-the-art open-source model in aesthetic quality. Our user studies demonstrate that our model outperforms SDXL, Playground v2, PixArt-α, DALL-E 3, and Midjourney 5.2.
 
 ---
 ## Prerequisites
