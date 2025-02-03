@@ -10,3 +10,4 @@ build:
     - "diffusers==0.27.0"
     - "transformers==4.38.1"
     - "accelerate==0.27.2"
+    - "huggingface-hub==0.25.2"
