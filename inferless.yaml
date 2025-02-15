@@ -1,7 +1,7 @@
 # Inferless config file (version: 1.0.0)
 version: 1.0.0
 
-name: Playground-v2.5-1024px
+name: playground-v2.5-1024px
 import_source: GIT
 
 # you can choose the options between ONNX, TENSORFLOW, PYTORCH
@@ -38,6 +38,6 @@ optional:
   input_file_name: input.json
   output_file_name: output.json
   runtime_file_name: inferless-runtime-config.yaml
-model_url: https://github.com/inferless/Playground-v2.5.git
+model_url: https://github.com/inferless/playground-v2.5.git
 provider: GITHUB
 io_schema: true
